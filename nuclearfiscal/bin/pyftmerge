@@ -1,4 +1,4 @@
-#!/Users/sergeantsharpe/Documents/fred-economic-analysis/nuclearfiscal/bin/python3.11
+#!/Users/sergeantsharpe/Documents/nuclear-energy-fiscal-analysis/nuclear-energy-fiscal-analysis/nuclearFiscal/bin/python3.11
 import sys
 from fontTools.merge import main
 if __name__ == '__main__':
